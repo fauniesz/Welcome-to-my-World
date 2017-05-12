@@ -1,0 +1,29 @@
+.image{
+  width: 400px;
+  height: 200px
+}
+
+.navigation{
+  float: right;
+  padding-left: 10px;
+  padding-right: 10%;
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.jumbotrom{
+  padding-bottom: 0%;
+}
+
+h1 {
+  font-size: 52px;
+  color: #42f4eb;
+  font-weight: bolder;
+}
+
+p {
+  color: #c3f7f4;
+  font-size: 28px;
+  font-family: fantasy;
+}
