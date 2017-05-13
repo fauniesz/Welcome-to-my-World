@@ -56,6 +56,12 @@ h1{
   margin-right: 30%;
 }
 
+@media screen and (max-width: 780px) {
+    body {
+        background-color: #E0D7D7;
+        color: #E0D7D7;
+    }
+}
 p{
   color: #E0D7D7;
   font-size: 22px;
