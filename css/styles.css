@@ -1,11 +1,11 @@
-.image{
+.image {
   width: 400px;
   height: 20%;
   padding-top: 0%;
   text-align: center;
 }
 
-body{
+body {
   background-image: url(../img/GOT.jpg);
   background-color: gray;
   background-size: 100%auto;
@@ -15,31 +15,30 @@ body{
   text-align: center;
 }
 
-.navigation{
+.navigation {
   color: white;
   font-size: 20px;
   text-decoration-color: white;
   text-align: center;
 }
 
-.jumbotron{
+.jumbotron {
   width: 100%;
   text-align: center;
 }
 
-ul{
+ul {
   text-align: center;
   margin: 0 auto;
-
 }
 
-.panel-title{
+.panel-title {
   font-size: 78px;
   color: #E0D7D7;
   text-align: center;
 }
 
-h1{
+h1 {
   text-align: center;
   font-weight: bolder;
 }
@@ -51,28 +50,30 @@ h1{
   font-size: 22px;
   font-style: bolder;
   text-align: center;
-  padding: 10px; color: black; background-color: #E0D7D7;
+  padding: 10px;
+  color: black;
+  background-color: #E0D7D7;
   margin-left: 30%;
   margin-right: 30%;
 }
 
 @media screen and (max-width: 780px) {
-    body {
-        background-color: #E0D7D7;
-        color: #E0D7D7;
-    }
+  body {
+    background-color: #E0D7D7;
+    color: #E0D7D7;
+  }
 }
 
-p{
+p {
   color: #E0D7D7;
   font-size: 22px;
   font-style: bolder;
   text-align: center;
 }
 
-.panel{
-  background-color: rgba(0,0,0,0.6);
-  background: rgba(0,0,0,0.6);
+.panel {
+  background-color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
   background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
   border-color: none;
   padding: 15px;
@@ -80,9 +81,9 @@ p{
   border: 1px;
   border-radius: 4px;
   text-align: center;
-  }
+}
 
-.well.Work-experience.html{
+.well.Work-experience.html {
   text-align: center;
   padding: 15px;
   margin-bottom: 20px;
@@ -90,56 +91,56 @@ p{
   border-radius: 4px;
 }
 
-.name{
-background-color: rgba(0,0,0,0.6);
-background: rgba(0,0,0,0.6);
-background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
-border-color: none;
-padding: 15px;
-margin-bottom: 18px;
-border: 1px;
-border-radius: 4px;
-color: #E0D7D7;
-margin-left: 350px;
-margin-right: 350px;
-text-align: center;
+.name {
+  background-color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+  border-color: none;
+  padding: 15px;
+  margin-bottom: 18px;
+  border: 1px;
+  border-radius: 4px;
+  color: #E0D7D7;
+  margin-left: 350px;
+  margin-right: 350px;
+  text-align: center;
 }
 
-.panel-title-2{
+.panel-title-2 {
   font-size: 23px;
   color: #E0D7D7;
   font-style: bolder;
   text-align: center;
 }
 
-.skills{
+.skills {
   color: #E0D7D7;
   text-align: center;
 }
 
-ul{
+ul {
   list-style: none;
   text-align: center;
 }
 
-li{
+li {
   color: #E0D7D7;
   text-align: center;
 }
 
-.container{
-  padding-left:0%;
+.container {
+  padding-left: 0%;
   text-align: center;
 }
 
-.panel-info{
+.panel-info {
   padding-left: 15%;
   padding-right: 15%;
   text-align: center;
 }
 
-img{
-  width:600px;
+img {
+  width: 600px;
   height: auto;
   align-items: center;
   text-align: center;
@@ -150,11 +151,10 @@ img{
 .pictures {
   width: 10%;
   height: 10%;
-  text-align: center:
-  padding-top: 5px;
+  text-align: center: padding-top: 5px;
   padding-bottom: 5px;
 }
 
-title{
+title {
   font-size: 78;
 }
